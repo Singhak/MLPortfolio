@@ -1,9 +1,9 @@
 # MLPortfolio
 This is collection of My Data Analysis and Python learning
 
-## [Tutorial](https://github.com/Singhak/MLPortfolio/tree/master/Tutorial)
+## [Tutorial](https://github.com/Singhak/MLPortfolio/tree/master/Tutorials)
 
->In I am try to accumulate my python knowledge in the form of Tutorial for helping my self and other if they needed.
+>In this, I am trying to accumulate my python knowledge in the form of Tutorial for helping my self and other if they needed.
 
 ## [Titanic](https://github.com/Singhak/MLPortfolio/tree/master/Titanic)
 
