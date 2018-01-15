@@ -1,4 +1,4 @@
-# MLPortfolio
+# [MLPortfolio](https://singhak.github.io/MLPortfolio/)
 This is collection of My Data Analysis and Python learning
 
 ## [Tutorial](https://github.com/Singhak/MLPortfolio/tree/master/Tutorials)
@@ -22,6 +22,10 @@ This is collection of My Data Analysis and Python learning
 >Information on more than 170,000 Terrorist Attacks.The Global Terrorism Database (GTD) is an open-source database including information on terrorist attacks around the world from 1970 through 2016 (with annual updates planned for the future). The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 170,000 cases.
 
 >Using this [Dataset](https://www.kaggle.com/START-UMD/gtd) I try to do EDA checked the trending feature of terrorist attacks
+
+## [IPL](https://github.com/Singhak/MLPortfolio/tree/master/Bank_term_Deposit)
+
+>In given ipl data set, I did EDA and bring out some interesting statics related to player, team, ground etc.. I tried to find out which ground is best for wining or which player performed well while playing different teams and against other teams. Take a look and enjoy it
 
 ## [Bank-Marketing](https://github.com/Singhak/MLPortfolio/tree/master/Bank_term_Deposit)
 
