@@ -15,10 +15,14 @@ This is collection of My Data Analysis and Python learning
 
 >The [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness) is a landmark survey of the state of global happiness. The first report was published in 2012, the second in 2013, the third in 2015, and the fourth in the 2016 Update. The World Happiness 2017, which ranks 155 countries by their happiness levels, was released at the United Nations at an event celebrating International Day of Happiness on March 20th.
 
->I did  Exploratory Data Analysis (EDA) and applied ML to predict Happiness Scoe on report 2015
+>I did  Exploratory Data Analysis (EDA) and applied ML to predict Happiness Score on report 2015
 
 ## [Global Terrorism](https://github.com/Singhak/MLPortfolio/tree/master/Global_Terrorism)
 
 >Information on more than 170,000 Terrorist Attacks.The Global Terrorism Database (GTD) is an open-source database including information on terrorist attacks around the world from 1970 through 2016 (with annual updates planned for the future). The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 170,000 cases.
 
 >Using this [Dataset](https://www.kaggle.com/START-UMD/gtd) I try to do EDA checked the trending feature of terrorist attacks
+
+## [Bank-Marketing](https://github.com/Singhak/MLPortfolio/tree/master/Bank_term_Deposit)
+
+>The [data](https://archive.ics.uci.edu/ml/datasets/bank+marketing) is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed.
