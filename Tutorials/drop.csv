@@ -1,0 +1,8 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S
+,,,,,,,,,,,
+6,0,3,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q
+62,1,1,"Icard, Miss. Amelie",female,38,0,0,113572,80,B28,
+62,1,1,"Icard, Miss. Amelie",female,38,0,0,113572,80,B28,
+62,1,1,,,38,0,,113572,80,B28,
+5,0,3,"Allen, Mr. William Henry",male,35,0,0,373450,8.05,,S
